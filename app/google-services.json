@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1048785308055",
+    "firebase_url": "https://fooddonation-21977.firebaseio.com",
+    "project_id": "fooddonation-21977",
+    "storage_bucket": "fooddonation-21977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048785308055:android:b74325ba1373c178",
+        "android_client_info": {
+          "package_name": "com.example.android.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048785308055-467k52aovb5nq4b8pjav6csj7kgco59g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1i_ikeVGzybS9mu9Pf3F42u2CECwMDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048785308055-467k52aovb5nq4b8pjav6csj7kgco59g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048785308055:android:c19f8f8488546399",
+        "android_client_info": {
+          "package_name": "com.example.android.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048785308055-467k52aovb5nq4b8pjav6csj7kgco59g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1i_ikeVGzybS9mu9Pf3F42u2CECwMDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048785308055-467k52aovb5nq4b8pjav6csj7kgco59g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
